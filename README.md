@@ -222,7 +222,7 @@ print("")
 
 print("Ejercicio No.4: Hallar el perímetro y el área de un rectángulo ingresando la base b y la altura h")
 
-# Leer la base y la altura del rectángulo
+#Leer la base y la altura del rectángulo
 
 base = float(input("Ingrese la base del rectángulo: "))
 
@@ -306,11 +306,11 @@ print (info)
 
 print(" ")
 
-# Solicitar un número natural al usuario
+#Solicitar un número natural al usuario
 
 numero = int(input("Ingresa un número natural: "))
 
-# Verificar si el número está dentro de la primera docena (entre 1 y 12)
+#Verificar si el número está dentro de la primera docena (entre 1 y 12)
 
 if 1 <= numero <= 12:
 
@@ -362,11 +362,11 @@ print("Ejercicio No.6:  Ingresar un número natural por teclado. Se desea saber 
 
 print("")
 
-# Solicita al usuario que ingrese un número 
+#Solicita al usuario que ingrese un número 
 
 numero = int(float(input("Ingrese un número natural: ")))
 
-# Verifica si el número es negativo
+#Verifica si el número es negativo
 
 if numero < 0:
 
